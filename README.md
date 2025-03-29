@@ -1,3 +1,5 @@
 #Meu Projeto em um README
 
-## Olá sou [Tales](https://github.com/TalesTop)
+## Olá sou [Victor](https://github.com/victorluansilva/)
+
+## Olá, eu sou [Tales](https://github.com/TalesTop)
