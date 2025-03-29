@@ -1,3 +1,3 @@
-#Meu Projeto em um README 
+##Meu Projeto em um README 
 
-## Olá sou [Carlos](https://github.com/futebol0254/)
+## Olá, eu sou [Carlos](https://github.com/futebol0254)
